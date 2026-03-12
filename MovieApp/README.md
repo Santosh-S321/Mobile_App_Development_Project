@@ -68,3 +68,13 @@ app/
 - TMDB API (external API)
 - Expo Notifications
 - @expo/vector-icons (Ionicons)
+
+## Figma Design Evidence
+
+Figma Evidence 1
+
+![alt text](figma-evidence1.png)
+
+Figma Evidence 2
+
+![alt text](figma-evidence2.png)
